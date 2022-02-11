@@ -6,8 +6,8 @@ This quiz site was created during a 24hr hackathon while completing BrainStation
 This site was built early on in the program utilizing:
   - HTML 5
   - Sass
-  - DOM APIs
-  - REST APIs
+  - DOM API
+  - REST API (https://opentdb.com/)
   - Axios
   
   
